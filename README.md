@@ -24,6 +24,7 @@ I actually did a GUI using Tkinter, so I didn't need to use the `while` loop or 
 
 ![DiceRolla gif](res/DiceRolla.gif)
 
+
 ## Links
 - Dice Rolling Simulator from [Five mini programming projects for the Python beginner](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
 - [Converting integer to string in Python](https://stackoverflow.com/questions/961632/converting-integer-to-string-in-python)
