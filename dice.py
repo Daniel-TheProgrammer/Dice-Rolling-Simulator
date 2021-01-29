@@ -2,6 +2,7 @@ import random
 
 from tkinter import Tk, Label, Button
 
+
 class DiceRolla:
     def __init__(self, master):
         self.master = master
