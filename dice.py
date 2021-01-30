@@ -1,4 +1,4 @@
-//Daniel theProgrammer
+//Daniel.theProgrammer
 import random
 
 from tkinter import Tk, Label, Button
