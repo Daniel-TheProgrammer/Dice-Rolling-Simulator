@@ -1,4 +1,4 @@
-//DaProgrammer
+//Programmer
 import random
 
 from tkinter import Tk, Label, Button
