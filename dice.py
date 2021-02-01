@@ -5,6 +5,7 @@ class DiceRolla:
     def __init__(self, master):
         self.master = master
         master.title("Dice Rolla")
+        
 
         self.label = Label(master, text="")
         self.label.pack()
